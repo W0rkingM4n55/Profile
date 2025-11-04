@@ -1,0 +1,8 @@
+## Hey 👋, This is James Brookshire
+[![Gmail Badge](https://img.shields.io/badge/-coolguy0000001@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coolguy0000001@outlook.com)](mailto:coolguy0000001@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-jamesbrookshiretripletentwenty-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamesbrookshiretripletentwenty/)](https://www.linkedin.com/in/jamesbrookshiretripletentwenty/) [![Github Badge](https://img.shields.io/badge/-W0rkingM4n55-grey?style=flat&logo=github&logoColor=white&link=https://github.com/W0rkingM4n55/)](https://www.github.com/W0rkingM4n55/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/W0rkingM4n55/)](https://github.com/W0rkingM4n55/) <p align='left'>Passionate about crafting clear, compelling data narratives that empower decision-makers and drive strategic growth. </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/19wwWtD2daDHcivIUmdgMWeVEtUMtxK0aH0NALAX3SOk/edit?tab=t.0 ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=W0rkingM4n55 alt=W0rkingM4n55 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=W0rkingM4n55&show_icons=true&include_all_commits=true)](https://github.com/W0rkingM4n55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W0rkingM4n55&layout=compact)](https://github.com/W0rkingM4n55/github-readme-stats)
